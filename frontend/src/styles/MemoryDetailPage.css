@@ -1,0 +1,202 @@
+.comment-button {
+    width: 400px;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    background-color: #282828;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  } */
+  
+  .page-container {
+    width: 1920px;
+  }
+  
+  .logo-content {
+    position: absolute;
+    top: 0;
+    width: 1920px;
+    height: 100px;
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .memorydetail-header {
+    max-width: 1560px;
+    margin: 100px auto 30px;
+    padding: 0 180px;
+  }
+  
+  .memorydetail-button {
+    display: flex;
+    justify-content: flex-end;
+    gap: 10px;
+    margin-bottom: 20px;
+  }
+  
+  .memorydetail-button-fix, .memorydetail-button-delete {
+    background-color: white;
+    border: none;
+    padding: 10px 20px;
+    font-size: 14px;
+    cursor: pointer;
+  }
+  
+  .memorydetail-button-delete {
+    color: #8D8D8D;
+  }
+  
+  .memorydetail-header-nickstatus {
+    display: flex;
+    margin-bottom: 20px;
+  }
+  
+  .memorydetail-nick {
+    font-size: 16px;
+    margin: 0px 5px;
+  }
+  
+  .memorydetail-status {
+    font-size: 16px;
+    color: #8D8D8D;
+    margin: 0px 5px;
+  }
+  
+  .memorydetail-title {
+    font-size: 30px;
+    font-weight: 700;
+    margin-bottom: 10px;
+  }
+  
+  .memorydetail-tag {
+    font-size: 18px;
+    color: #B8B8B8;
+    margin-bottom: 30px;
+  }
+  
+  .group-actions {
+    display: flex;
+    justify-content: flex-end;
+    margin-bottom: 20px;
+  }
+  
+  .button-empathy {
+    width: 200px;
+    height: 50px;
+    border: 1px solid #282828;
+    border-radius: 6px;
+    background-color: white;
+    font-size: 16px;
+    font-weight: 500;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 10px;
+    cursor: pointer;
+  }
+  
+  .memorydetail-content {
+    justify-content: center;
+  }
+  
+  .content-img {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .content-img img {
+    width: 780px;
+    height: 780px;
+    border-radius: 6px;
+    margin-top: 50px;
+  }
+  
+  .content-description {
+    font-size: 16px;
+    margin: 20px 0;
+    text-align: center;
+  }
+  
+  .content-button {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .comment-button {
+    width: 100%;
+    max-width: 400px;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    background-color: #282828;
+    cursor: pointer;
+  }
+  .memorydetail-comment {
+    margin-top: 40px;
+  }
+  
+  .comment-status {
+    font-size: 18px;
+    font-weight: 500;
+    margin-bottom: 10px;
+  }
+  
+  .nocomment-one {
+    font-size: 18px;
+    font-weight: 700;
+    color: #B8B8B8;
+    margin-bottom: 5px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .nocomment-two {
+    font-size: 14px;
+    color: #B8B8B8;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 10px;
+  }
+  
+  .memorydetail-comment-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 10px 0;
+    border-bottom: 1px solid #e0e0e0;
+  }
+  
+  .memorydetail-comment-nickname {
+    font-weight: bold;
+    color: #333;
+    margin-right: 10px;
+  }
+  
+  .memorydetail-comment-date {
+    color: #999;
+    font-size: 12px;
+  }
+  
+  .memorydetail-comment-content {
+    flex: 1;
+    color: #555;
+    margin-left: 15px;
+  }
+  
+  .memorydetail-comment-actions {
+    display: flex;
+    align-items: center;
+  }
+  
+  .memorydetail-comment-actions img {
+    width: 16px;
+    height: 16px;
+    cursor: pointer;
+    margin-left: 10px;
+  }

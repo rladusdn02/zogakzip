@@ -1,0 +1,184 @@
+.uploadmemory-page {
+    width: 1440px;
+    margin: 0px 240px;
+  }
+  
+  .uploadmemory-pagetitle { 
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-bottom: 3cqh;
+    margin-right: 70px;
+  }
+  
+  .uploadmemory-container {
+    width: 1440px;
+    display: flex;
+    margin: 10px;
+  }
+  
+  .left-section {
+    width: 720px;
+    height: 500px;
+    margin-left: 30px;
+  }
+  
+  .uploadmemory-nick {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: 150px;
+  }
+  
+  .uploadmemory-nick-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .uploadmemory-nickinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-title {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: 150px;
+  }
+  
+  .uploadmemory-title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .uploadmemory-titleinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-img {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: 150px;
+  }
+  
+  .uploadmemory-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .uploadmemory-imginput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-content {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: 150px;
+  }
+  
+  .uploadmemory-content-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .uploadmemory-contentinput {
+    width: 400px;
+    height: 120px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .right-section {
+    width: 720px;
+    height: 500px;
+    margin-right: 30px;
+  }
+  
+  .uploadmemory-tag {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+  }
+  
+  .uploadmemory-taginput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-place {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+  }
+  
+  .uploadmemory-placeinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-time {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+  }
+  
+  .uploadmemory-timeinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-select {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+  }
+  
+  .uploadmemory-pwd {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+  }
+  
+  .uploadmemory-pwdinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .uploadmemory-button {
+    width: 400px;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    background-color: #282828;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-left: 500px;
+    margin-top: 30px;
+  }
+  

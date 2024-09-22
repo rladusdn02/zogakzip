@@ -1,0 +1,70 @@
+.page-container {
+    width: 1920px;
+  }
+  
+  .logo-content {
+    position: absolute;
+    top: 0;
+    width: 1920px;
+    height: 100px;
+    background-color: #FAFAFA;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .privatepermission-title {
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .privatepermission-description {
+    font-size: 14px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding-bottom: 30px;
+  }
+  
+  .privatepermission-password {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .privatepermission-pwd {
+    font-size: 16px;
+    font-weight: 500;
+    padding-bottom: 10px;
+    padding-right: 290px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .privatepermission-pwdinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .privatepermission-button-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 20px;
+  }
+  
+  .privatepermission-button {
+    width: 400px;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    background-color: #282828;
+  }
+  

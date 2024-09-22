@@ -1,0 +1,187 @@
+.editmemory-page {
+    width: 1120px;
+    height: 100%;
+  }
+  
+  .editmemory-pagetitle { 
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px;
+  }
+  
+  .editmemory-container {
+    width: 1440px;
+    display: flex;
+    margin: 10px;
+  }
+  
+  .editmemory-left-section {
+    width: 560px;
+    height: 500px;
+  }
+  
+  .editmemory-nick {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -60%;
+  }
+  
+  .editmemory-nick-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .editmemory-nickinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-title {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -60%;
+  }
+  
+  .editmemory-title-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .editmemory-titleinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-img {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -60%;
+  }
+  
+  .editmemory-img-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .editmemory-imginput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-content {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -60%;
+  }
+  
+  .editmemory-content-container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  
+  .editmemory-contentinput {
+    width: 400px;
+    height: 120px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-right-section {
+    width: 560px;
+    height: 500px;
+    margin-right: 30px;
+  }
+  
+  .editmemory-tag {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -60%;
+  }
+  
+  .editmemory-taginput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-place {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -60%;
+  }
+  
+  .editmemory-placeinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-time {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -55%;
+  }
+  
+  .editmemory-timeinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-select {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -50%;
+  }
+  
+  .editmemory-select-container {
+    display: flex;
+    margin-left: 100px;
+  }
+  
+  .editmemory-pwd {
+    font-size: 16px;
+    font-weight: 500;
+    margin: 10px 0px;
+    margin-left: -55%;
+  }
+  
+  .editmemory-pwdinput {
+    width: 400px;
+    height: 45px;
+    border-radius: 6px;
+    font-size: 14px;
+  }
+  
+  .editmemory-button {
+    width: 400px;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    background-color: #282828;
+  }
+  

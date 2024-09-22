@@ -1,0 +1,44 @@
+.delete-modal {
+    width: 480px;
+    height: 100%;
+  }
+  
+  .delete-title { 
+    font-size: 24px;
+    font-weight: 700;
+    display: flex;
+    justify-content: center;
+    margin: 20px;
+  }
+  
+  .delete-input {
+    font-size: 16px;
+    font-weight: 500;
+    margin-right: 60%;
+  }
+  
+  .delete-input-container {
+    display: flex;
+    justify-content: center;
+  }
+  
+  .delete-inputtext {
+    width: 400px;
+    height: 45px;
+    margin: 20px 0px;
+  }
+  
+  .delete-button-container {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .delete-button {
+    width: 400px;
+    height: 50px;
+    border-radius: 6px;
+    color: white;
+    background-color: #282828;
+    margin-top: 10px;
+  }
